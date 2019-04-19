@@ -1,4 +1,4 @@
-# Chicken Challenge
+# Chicken!
 
 This is a simple ASCII art generator to create a chicken for the chicken challenge
 
