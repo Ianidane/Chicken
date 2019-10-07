@@ -11,7 +11,7 @@ This is a simple ASCII art generator to create a chicken for the chicken challen
 * PHP 7.0 or higher
 * PHP GD library (should come bundled with PHP)
 * PHPUnit (https://phpunit.de/) bundled with project folder
-* A image of a chicken
+* A image of a chicken (Or any image should work)
 
 ## Usage
 
